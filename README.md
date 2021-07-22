@@ -1,4 +1,4 @@
-Picture in Picture
+Picture in Picture (ONLY WORKS ON DESKTOP!!!)
 
 A web app which allows the user to stream another screen from their computer into a floating picture in picture element on their screen.
 
